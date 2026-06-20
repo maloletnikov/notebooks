@@ -17,7 +17,7 @@
 
 ## Характеристики
 
-| Характеристика | [ASUS TUF Gaming FA808UM-S8065](https://www.dns-shop.ru/product/cd06f6df6215d9cb/18-noutbuk-asus-tuf-gaming-fa808um-s8065-seryj/?utm_referrer=https%3A%2F%2Fwww.dns-shop.ru%2Fproduct%2Fcd06f6df6215d9cb%2F18-noutbuk-asus-tuf-gaming-fa808um-s8065-seryj%2F) | [Machenike Star 17 Neptune 2K XL](https://www.dns-shop.ru/product/4a63332a3063d9cb/173-noutbuk-machenike-star-17-neptune-2k-xl-seryj/) | [Machenike Star 16 Moon](https://www.dns-shop.ru/product/68d14ac20de4d9cb/16-noutbuk-machenike-star-16-moon-seryj/) | [MSI Pulse A16 AI+ C3HWFKG-033XRU](https://www.dns-shop.ru/product/39a174670d5ed9cb/16-noutbuk-msi-pulse-a16-ai-c3hwfkg-033xru-cernyj/) |
+| Характеристика | [ASUS TUF Gaming FA808UM-S8065](https://www.dns-shop.ru/product/cd06f6df6215d9cb/18-noutbuk-asus-tuf-gaming-fa808um-s8065-seryj/?utm_referrer=https%3A%2F%2Fwww.dns-shop.ru%2Fproduct%2Fcd06f6df6215d9cb%2F18-noutbuk-asus-tuf-gaming-fa808um-s8065-seryj%2F){:target="_blank"} | [Machenike Star 17 Neptune 2K XL](https://www.dns-shop.ru/product/4a63332a3063d9cb/173-noutbuk-machenike-star-17-neptune-2k-xl-seryj/){:target="_blank"} | [Machenike Star 16 Moon](https://www.dns-shop.ru/product/68d14ac20de4d9cb/16-noutbuk-machenike-star-16-moon-seryj/){:target="_blank"} | [MSI Pulse A16 AI+ C3HWFKG-033XRU](https://www.dns-shop.ru/product/39a174670d5ed9cb/16-noutbuk-msi-pulse-a16-ai-c3hwfkg-033xru-cernyj/){:target="_blank"} |
 | :--- | :--- | :--- | :--- | :--- |
 | **Цена** | 156 999 ₽ | 139 999 ₽ | 152 999 ₽ | 144 999 ₽ |
 | **Диагональ экрана** | 18" | 17.3" | 16" | 16" |
